@@ -42,7 +42,7 @@ A proposta foi criar uma interface limpa e visualmente agradável para apresenta
 
 ## 🔗 Deploy
 
-
+https://vinirez.github.io/sole-landing-page/
 
 ---
 
